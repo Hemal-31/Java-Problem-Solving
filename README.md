@@ -9,6 +9,7 @@ This repository contains beginner-level Java programs created to improve logical
 * Number-based ascending order
 * Order of sequence
 * Checking of sequence
+* Number of even and odd number in an collection of numbers 
 
 These programs focus on strengthening programming fundamentals such as loops, condition handling, and number manipulation.
 
