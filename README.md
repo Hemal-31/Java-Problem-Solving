@@ -11,6 +11,7 @@ This repository contains beginner-level Java programs created to improve logical
 * Checking of sequence
 * Number of even and odd number in an collection of numbers
 * Digital root of an number (reapeat the sum of number until it becomes single digit)
+* FInd freuency of an number in an array 
 
 These programs focus on strengthening programming fundamentals such as loops, condition handling, and number manipulation.
 
